@@ -16,7 +16,7 @@ Criar o frontend da aplicação RocketMovies, utilizando as tecnologias abaixo, 
 - [React](https://react.dev)
 - [Vite](https://vitejs.dev) 
 
-###📚 Bibliotecas e Dependências:
+### 📚 Bibliotecas e Dependências:
 - [Styled Components](https://styled-components.com)
 - [React Icons](https://www.npmjs.com/package/react-icons)
 
