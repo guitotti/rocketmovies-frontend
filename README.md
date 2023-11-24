@@ -1,3 +1,5 @@
+### [Projeto em desenvolvimento]
+
 <div align="center">
   <img src="https://github.com/guitotti/rocketmovies-frontend/assets/62620636/79da989b-5b7b-475d-8147-4bd216b883ce.png" />
 </div>
